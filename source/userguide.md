@@ -10,7 +10,7 @@
 
 投影仪的接口一般有VGA和HDMI两种形式，笔记本电脑可根据需要使用相应的转接口。
 
-![image](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/接口.jpg)
+![image](/images/接口.jpg)
 
 ## 3. 设置投影仪连接
 
@@ -20,7 +20,7 @@
 
 或者按快捷键 win + P，选择投影设置。
 
-![image](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/win.png)
+![image](/images/win.png)
 
 **b. 在Mac OS系统的电脑中:**
 

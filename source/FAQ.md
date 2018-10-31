@@ -11,20 +11,20 @@
   在桌面空白处点击鼠标右键-〉“属性”-〉“设置”-〉选中2号显示器图标-〉取消“将Windows桌面扩展到该监视器上”的选项-〉“确定”，如下图.
 <!-- tocstop -->
 
- ![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/1.bmp)
+ ![](/images/1.bmp)
 
 注意：此处要将除1号显示器以外的所有其它序号（2、3、4、5……）的显示器中的“将Windows桌面扩展到该监视器上”选项取消。
 ###（2）若使用Windows 7及以上版本的操作系统：
   同时按电脑键盘上的 （Windows）键 + P键，出现如下图所示的画面，选择“复制”即可。
 <!-- tocstop -->
 
- ![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/2.bmp)
+ ![](/images/2.bmp)
 
 ###（3）若使用苹果（Mac OS）操作系统：
   按Command键+F1，如下图：
   <!-- tocstop -->
 
-![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/3.bmp)
+![](/images/3.bmp)
 
 
 
@@ -33,25 +33,25 @@
 问题表现：投影机与计算机通过VGA信号线连接，投影画面上显示“无信号”（通常是蓝色背景）。如下图所示。
 <!-- tocstop -->
 
-![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/4.bmp)
+![](/images/4.bmp)
 
 **解决方案：**
 （1）首先请确保VGA线连接在投影机的带有“Computer”或“PC”字样的接口上（注意：不要连接在带有“Monitor Out”字样的接口上）。如下图所示。此外，投影机与计算机最好是直连的，中间不要串接分频器、延长线、转接线等其它设备。
 <!-- tocstop -->
 
-![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/5.bmp)
+![](/images/5.bmp)
 
 （2）其次请查看投影画面上显示的源是否为“计算机”。若不是，请按投影机面板上或遥控器上的“Source Search”键及方向键将信号源选择为“计算机”（注意：有些投影机有两个VGA接口，若连接的是Computer1接口则信号源选择为计算机1，若连接的是Computer2接口则信号源选择为计算机2）。如下图所示。
 <!-- tocstop -->
 
-![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/6.bmp)
+![](/images/6.bmp)
 
 （3）请通过笔记本电脑的屏幕切换组合键将显示状态切换到笔记本屏幕和投影机屏幕均显示的模式。
 a.对于Windows XP及下版本的操作系统：屏幕切换组合键为Fn + 屏幕切换键（通常为F1-F12中的一个按键，不同品牌及型号的笔记本电脑该键的位置也不相同）；
 b.对于Windows 7及以上版本的操作系统：屏幕切换组合键为Windows键 + P，在弹出的窗口中选择复制。如下图所示。
 <!-- tocstop -->
 
-![](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/2.bmp)
+![](/images/2.bmp)
 
 （4）请重启计算机，检查投影机是否可以投影出Windows开机画面。
 

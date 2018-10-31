@@ -18,7 +18,7 @@
 
 ## 投影仪常用按键指南
 
-![遥控器1](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/遥控器1.jpg)
+![遥控器1](/images/遥控器1.jpg)
 
 |      | 名称          | 功能                                  |
 | :--: | ------------- | ------------------------------------- |
