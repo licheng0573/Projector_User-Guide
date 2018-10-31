@@ -114,7 +114,7 @@
 ### 分别手动校正水平和垂直失真
 
 ![梯形校正](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/5.png)
-![梯形校正](C:\Users\40603\Desktop\英语技术文档写作\1101-ProjectorUserGuide\pic\img2.png)
+![梯形校正](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/img2.png)
 ![梯形校正](https://github.com/licheng0573/Projector_User-Guide/blob/master/pic/img3.png)
 
 ### quick corner
