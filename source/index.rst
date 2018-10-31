@@ -18,9 +18,3 @@ Welcome to Projector_UserGuide's documentation!
 
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
